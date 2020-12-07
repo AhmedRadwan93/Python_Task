@@ -1,0 +1,8 @@
+prefix=/home/ahmed/python_task/install
+
+Name: rotation_taks
+Description: Description of rotation_taks
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
